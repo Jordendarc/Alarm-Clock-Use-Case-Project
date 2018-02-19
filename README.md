@@ -1,6 +1,6 @@
 # Alarm-Clock-Use-Case-Project
-##Name: Jorden Carter-Whitbey
-##Due: 02/19/2018
+## Name: Jorden Carter-Whitbey
+## Due: 02/19/2018
 
 *Suppose we want to develop software for an alarm clock.*
 
