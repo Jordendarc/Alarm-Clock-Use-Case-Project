@@ -12,4 +12,4 @@
 
 ## Use Case Diagram for Alarm Clock:
 
-![alt text]( https://github.com/Jordendarc/Alarm-Clock-Use-Case-Project/alarm.png "Alarm Clock Use Case Diagram")
+![image] https://github.com/Jordendarc/Alarm-Clock-Use-Case-Project/blob/master/alarm.png)
